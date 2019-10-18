@@ -1,0 +1,68 @@
+Oct  5 12:56:52 10.71.53.15 tmp69703544-6325 session opened for local user tmp69703544-6325 from [10.71.53.15]
+Oct  5 12:58:40 10.71.53.15 tmp69703544-6325 open "/about.html" flags READ mode 0666
+Oct  5 12:58:41 10.71.53.15 tmp69703544-6325 close "/about.html" bytes read 17850 written 0
+Oct  5 12:58:41 10.71.53.15 tmp69703544-6325 [10.71.53.15|get|1|17850|0|0|0|2f61626f75742e68746d6c|]
+Oct  5 12:59:58 10.71.53.15 tmp69703544-6325 open "/booking4.html" flags READ mode 0666
+Oct  5 12:59:58 10.71.53.15 tmp69703544-6325 close "/booking4.html" bytes read 15624 written 0
+Oct  5 12:59:58 10.71.53.15 tmp69703544-6325 [10.71.53.15|get|0|15624|0|0|0|2f626f6f6b696e67342e68746d6c|]
+Oct  5 13:02:07 10.71.53.15 tmp69703544-6325 posix-rename old "/Listing-1-Brick-Bungalow - Copy.html" new "/Listing-1-Brick-Bungalow.html"
+Oct  5 13:02:07 10.71.53.15 tmp69703544-6325 [10.71.53.15|posix-rename|0|0|0|0|0|2f4c697374696e672d312d427269636b2d42756e67616c6f77202d20436f70792e68746d6c|2f4c697374696e672d312d427269636b2d42756e67616c6f772e68746d6c]
+Oct  5 13:59:20 10.71.55.17 u69703544-mason session opened for local user u69703544-mason from [10.71.55.17]
+Oct  5 13:59:43 10.71.55.17 u69703544-mason session opened for local user u69703544-mason from [10.71.55.17]
+Oct  5 13:59:43 10.71.55.17 u69703544-mason open "/about.html" flags READ mode 0666
+Oct  5 13:59:43 10.71.55.17 u69703544-mason close "/about.html" bytes read 17850 written 0
+Oct  5 13:59:43 10.71.55.17 u69703544-mason [10.71.55.17|get|0|17850|0|0|0|2f61626f75742e68746d6c|]
+Oct  5 14:00:11 10.71.55.17 u69703544-mason open "/.htaccess" flags READ mode 0666
+Oct  5 14:00:11 10.71.55.17 u69703544-mason close "/.htaccess" bytes read 111 written 0
+Oct  5 14:00:11 10.71.55.17 u69703544-mason [10.71.55.17|get|0|111|0|0|0|2f2e6874616363657373|]
+Oct  5 14:00:11 10.71.55.17 u69703544-mason open "/booking4.html" flags READ mode 0666
+Oct  5 14:00:11 10.71.55.17 u69703544-mason close "/booking4.html" bytes read 15624 written 0
+Oct  5 14:00:11 10.71.55.17 u69703544-mason [10.71.55.17|get|0|15624|0|0|0|2f626f6f6b696e67342e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/contact.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/contact.html" bytes read 17850 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|17850|0|0|0|2f636f6e746163742e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason sent status No such file
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/booking2.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/booking2.html" bytes read 21753 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|21753|0|0|0|2f626f6f6b696e67322e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/booking3.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/booking3.html" bytes read 17149 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|17149|0|0|0|2f626f6f6b696e67332e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/testimonials.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason session opened for local user u69703544-mason from [10.71.55.17]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/testimonials.html" bytes read 19399 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|19399|0|0|0|2f74657374696d6f6e69616c732e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/Listing-7-lounge.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/Listing-1-Brick-Bungalow.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/Listing-7-lounge.html" bytes read 18165 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|18165|0|0|0|2f4c697374696e672d372d6c6f756e67652e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/Listing-1-Brick-Bungalow.html" bytes read 18165 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/accommodation.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|18165|0|0|0|2f4c697374696e672d312d427269636b2d42756e67616c6f772e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/booking1.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/accommodation.html" bytes read 17672 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|17672|0|0|0|2f6163636f6d6d6f646174696f6e2e68746d6c|]
+Oct  5 14:00:12 10.71.55.17 u69703544-mason open "/index.html" flags READ mode 0666
+Oct  5 14:00:12 10.71.55.17 u69703544-mason close "/booking1.html" bytes read 19142 written 0
+Oct  5 14:00:12 10.71.55.17 u69703544-mason [10.71.55.17|get|0|19142|0|0|0|2f626f6f6b696e67312e68746d6c|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/about.html" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/index.html" bytes read 22622 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|1|22622|0|0|0|2f696e6465782e68746d6c|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/about.html" bytes read 17850 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|17850|0|0|0|2f61626f75742e68746d6c|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/access.log.40.3.gz" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/logs/access.log.40.3.gz" bytes read 1075 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|1075|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e332e677a|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/dav.log.35.gz" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/access.log.40.5.gz" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/logs/dav.log.35.gz" bytes read 180 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|180|0|0|0|2f6c6f67732f6461762e6c6f672e33352e677a|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/logs/access.log.40.5.gz" bytes read 2705 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|2705|0|0|0|2f6c6f67732f6163636573732e6c6f672e34302e352e677a|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/dav.log.32.gz" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/access.log.32.gz" flags READ mode 0666
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/logs/dav.log.32.gz" bytes read 206 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|206|0|0|0|2f6c6f67732f6461762e6c6f672e33322e677a|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason close "/logs/access.log.32.gz" bytes read 3826 written 0
+Oct  5 14:00:13 10.71.55.17 u69703544-mason [10.71.55.17|get|0|3826|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Oct  5 14:00:13 10.71.55.17 u69703544-mason open "/logs/sftp.log" flags READ mode 0666
